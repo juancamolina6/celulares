@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+### archivo con las credenciales de la base de datos
+.env
